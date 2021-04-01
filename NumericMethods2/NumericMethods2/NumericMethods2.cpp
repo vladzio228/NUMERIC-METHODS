@@ -1,9 +1,12 @@
-#include "ModifiedGauss.h"
 #include <iostream>
+#include <vector>
+#include <cmath>
+#include "SquareRootMethod.h"
+#include "ModifiedGauss.h"
+
 using namespace std;
 
-int main()
-{
+int main() {
     ModifiedGauss();
-    return 0;
+    SquareRootMethodAnswer();
 }

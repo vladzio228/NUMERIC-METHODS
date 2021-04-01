@@ -26,5 +26,8 @@
     <ClInclude Include="ModifiedGauss.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SquareRootMethod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
